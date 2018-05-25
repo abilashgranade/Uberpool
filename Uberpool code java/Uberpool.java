@@ -2,7 +2,7 @@
 class Uberpool{
   public static void main(String[] args) {
  Operation obj = new  Operation();
-    System.out.println("Hello Codiva");
+   
     obj.addop("ABILASH");
     obj.addop("BIBHASH");
     obj.addop("AGEETH");
